@@ -10,7 +10,7 @@ We are currently in the process of setting up a database connection to tableau, 
 
 ## Task 1
 
-We would like to ask you to prep the data and create an export and client visualization for United Healthcare. It especially important for them to standardize insurances for treatments. This could optimize revenue and reduce cost since they can specialize into specific treatments. Which could be a major leverage in the negotiations with insurance companies. This in terms could lower their standard fees for consumers, which could give uninsured patients an opportunity. It would therefore also be good to know, how many patients they are missing out on given the most performed procedures. Furhtermore they would like to have an export of that raw data ordered by procedures and dates (newest date first).  
+The client (United Healthcare) asks you to prep the data, and create some visualizations to get some more information on the data that is present. They would like to see the procedures ordered by total cost and and a visualization showing the amount of times procedures have been performed ordered from most held, to least held. We would also like you to give extracts of the data that is used in the visualtions (so the raw data behind the visualizations). Finally we would like to receive a graph showing patients, who follow the same procedures that are our top held procedures from our clients' patients. 
 
 ## Task 2
 
@@ -23,3 +23,7 @@ We would like to have reports for senior management, preferably with as much det
 
 ## Notes
 We know some of the questions are vague and maybe impossible todo given the tools you are using. This is on purpose. We want to see how you would handle these situations, therefore it is okay to include an explanation of the process/solution that you would suggest had you been using the tools that do support these requirements. 
+
+## Instructions
+
+If you manage to read this part one has already been succesfully completed. You have extracted the zip and are ready the readme.md. Step 2 is to extract this into a private repository and give us access to this. You do not immediately have to give us access, this can be done after you have completed it as well. You will be given a notice who to add to your repository. 
