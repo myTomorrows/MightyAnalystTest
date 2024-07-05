@@ -10,7 +10,7 @@ We are currently in the process of setting up a database connection to tableau, 
 
 ## Task 1
 
-We would like to ask you to prep the data and create an export and client visualization for United Healthcare. It especially important for them to standardize insurances for treatments. This could optimize revenue and reduce cost since they can specialize into specific treatments. Which could be a major leverage in the negotiations with insurance companies. This in terms could lower their standard fees, which could give uninsured patients an opportunity. It would therefore also be good to know, the number of patients they are missing out on given the most performed procedures. Furhtermore they would like to have an export ordered by procedures and dates (newest date first).  
+We would like to ask you to prep the data and create an export and client visualization for United Healthcare. It especially important for them to standardize insurances for treatments. This could optimize revenue and reduce cost since they can specialize into specific treatments. Which could be a major leverage in the negotiations with insurance companies. This in terms could lower their standard fees for consumers, which could give uninsured patients an opportunity. It would therefore also be good to know, how many patients they are missing out on given the most performed procedures. Furhtermore they would like to have an export of that raw data ordered by procedures and dates (newest date first).  
 
 ## Task 2
 
@@ -19,7 +19,7 @@ Since we are already delivering a report to one of our clients, we cannot leave 
 
 ## Task 3
 
-We would like to have reports for senior management, preferably with as much detail as possible. We would like to be able to have extracts of the visualized data as well. Only senior management is allowed to see these visualisations, whereas other employees in the org are allowed to have access to the raw  extracts.
+We would like to have reports for senior management, preferably with as much detail as possible. We would like to be able to have extracts of the visualized data as well. Only senior management is allowed to see these visualisations, whereas other employees in the org are allowed to have access to the raw  extracts. One visualization should be about the data of our clients, how many patients we have helped from specific areas. Possibly to identify any relationship between the area of residence and the preocedures that are being performed. The other graphs we would like to see are non-client related, we would like to see if there are any patients grouped together that are not affeliated to any of our clients, but are in close proximity of patients who are in contact with our clients. 
 
 ## Notes
 We know some of the questions are vague and maybe impossible todo given the tools you are using. This is on purpose. We want to see how you would handle these situations, therefore it is okay to include an explanation of the process/solution that you would suggest had you been using the tools that do support these requirements. 
