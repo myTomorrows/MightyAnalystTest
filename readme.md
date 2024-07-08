@@ -26,4 +26,6 @@ We know some of the questions are vague and maybe impossible todo given the tool
 
 ## Instructions
 
-If you manage to read this part one has already been succesfully completed. You have extracted the zip and are ready the readme.md. Step 2 is to extract this into a private repository and give us access to this. You do not immediately have to give us access, this can be done after you have completed it as well. You will be given a notice who to add to your repository. 
+Step one is to go to: "https://github.com/myTomorrows/MightyAnalystTest" and download this as a zip, or fork it into your own private repository (preferably github). 
+Step 2 is to give us access to this repository. You do not immediately have to give us access, this can be done after you have completed it as well. You will be given a notice who to add to your repository. 
+Finally, you may do the tasks described above in any way you like. Input contains the data that is used for the test and this readme file contains the requests. Good luck and above all, have fun!
